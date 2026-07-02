@@ -130,18 +130,6 @@ export const skillGroups = [
     ],
   },
   {
-    title: "Product UI",
-    icon: CalendarDays,
-    skills: [
-      "Dashboards",
-      "Calendar Workflows",
-      "Filters",
-      "Modals",
-      "Data Tables",
-      "Loading, Error & Empty States",
-    ],
-  },
-  {
     title: "AI-Assisted Engineering",
     icon: BrainCircuit,
     skills: [
