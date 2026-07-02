@@ -6,8 +6,8 @@ This portfolio is designed as a professional engineering brand site — clean, r
 
 ## Live Demo
 
-- Live Demo: Coming soon
-- GitHub Repo: Coming soon
+- Live Demo: https://neha-engineering-portfolio.vercel.app
+- GitHub Repo: https://github.com/N-Mangla/neha-engineering-portfolio
 
 ## Highlights
 
