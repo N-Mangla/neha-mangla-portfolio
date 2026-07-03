@@ -20,9 +20,9 @@ import {
 export const profile = {
   name: "Neha Mangla",
   role: "Senior Full Stack Engineer",
-  tagline: "React · TypeScript · Product UI · Enterprise SaaS",
+  tagline: "React · TypeScript · Node.js · Python APIs · Enterprise SaaS",
   summary:
-    "I build complex product interfaces, dashboards, calendar workflows, API-driven experiences, and tested frontend systems for SaaS and enterprise products.",
+    "I build full-stack SaaS features across React, TypeScript, REST APIs, backend workflows, dashboards, calendar systems, and tested product experiences.",
   email: "nehamangla500@gmail.com",
   emailUrl:
     "https://mail.google.com/mail/?view=cm&fs=1&to=nehamangla500@gmail.com",
@@ -45,12 +45,12 @@ export const highlights = [
   },
   {
     label: "React + TS",
-    description: "Product UI systems",
+    description: "Frontend systems",
     icon: Code2,
   },
   {
-    label: "Enterprise SaaS",
-    description: "Scheduling workflows",
+    label: "Backend APIs",
+    description: "Node.js · NestJS · Python",
     icon: Workflow,
   },
   {

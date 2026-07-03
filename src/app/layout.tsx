@@ -9,7 +9,7 @@ const inter = Inter({
   display: "swap",
 });
 
-const siteUrl = "https://neha-mangla-portfolio.vercel.app";
+const siteUrl = "https://nehamangla-portfolio.vercel.app";
 
 export const metadata: Metadata = {
   metadataBase: new URL(siteUrl),
@@ -18,14 +18,19 @@ export const metadata: Metadata = {
     template: "%s | Neha Mangla",
   },
   description:
-    "Senior Full Stack Engineer focused on React, TypeScript, enterprise SaaS, product UI, calendar workflows, dashboards, API-driven experiences, and tested frontend systems.",
+    "Senior Full Stack Engineer focused on React, TypeScript, REST APIs, Node.js, NestJS, Python backend APIs, enterprise SaaS, dashboards, calendar workflows, and tested product systems.",
   keywords: [
     "Neha Mangla",
     "Senior Full Stack Engineer",
+    "Full Stack Engineer",
     "React",
     "TypeScript",
+    "Node.js",
+    "NestJS",
+    "Python APIs",
+    "REST APIs",
     "Frontend Engineer",
-    "Product UI",
+    "Backend APIs",
     "Enterprise SaaS",
     "Calendar UI",
     "Dashboard UI",
@@ -42,7 +47,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Neha Mangla — Senior Full Stack Engineer",
     description:
-      "React + TypeScript engineer building complex product interfaces, dashboards, calendar workflows, API-driven experiences, and tested frontend systems.",
+      "Full-stack engineer building React + TypeScript product experiences, REST APIs, backend workflows, dashboards, calendar systems, and tested SaaS features.",
     url: siteUrl,
     siteName: "Neha Mangla Portfolio",
     type: "website",
@@ -51,7 +56,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "Neha Mangla — Senior Full Stack Engineer",
     description:
-      "React + TypeScript engineer building complex product interfaces, dashboards, calendar workflows, API-driven experiences, and tested frontend systems.",
+      "Full-stack engineer building React + TypeScript product experiences, REST APIs, backend workflows, dashboards, calendar systems, and tested SaaS features.",
   },
   robots: {
     index: true,
